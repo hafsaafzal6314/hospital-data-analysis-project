@@ -1,5 +1,7 @@
 # 🏥 Hospital Data Analysis Dashboard in Excel
+## Dashboard Preview
 
+![Dashboard](Hospital-sales-dashboard.png)
 ## 📋 Project Overview
 
 This project demonstrates my Excel data analysis skills using a hospital dataset. I cleaned the raw data, performed data analysis using Pivot Tables and Pivot Charts, and created an interactive dashboard to summarize hospital performance.
